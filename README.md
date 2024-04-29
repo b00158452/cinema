@@ -14,9 +14,17 @@ MVC Design Pattern: Separates files and functionality into Model, View, and Cont
 
 To improve grades, consider:
 
-Implementing custom PHP classes and functions to encapsulate reusable logic. Ensuring code follows the DRY principle to avoid redundancy. Using version control (e.g., Git) and testing practices (e.g., unit testing) to ensure code quality and stability. Providing thorough documentation and examples demonstrating a solid understanding of core features. References
+Implementing custom PHP classes and functions to encapsulate reusable logic. Ensuring code follows the DRY principle to avoid redundancy. Using version control (e.g., Git) and testing practices (e.g., unit testing) to ensure code quality and stability. Providing thorough documentation and examples demonstrating a solid understanding of core features. 
 
-Moodle Web Development Lecture Notes Moodle Software Testing Practicals [00:56, 29/04/2024] Exceptional: This is the Readme
+
+
+References:
+
+Moodle Web Development Lecture Notes
+Moodle Software Testing Practicals 
+lesson from codewithmosh
+Youtube videos
+[00:56, 29/04/2024] Exceptional: This is the Readme
 
 
 
